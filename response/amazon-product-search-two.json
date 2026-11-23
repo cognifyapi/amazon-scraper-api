@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "query": {
+    "product": "laptop",
+    "domain": "com",
+    "currency": "USD"
+  },
+  "result": 9,
+  "productResults": [
+    {
+      "asin": "B0GTFH1DNL",
+      "uuid": "3166b385-41e8-41c1-be58-79e6d48f5771",
+      "title": "Acer Aspire Go 15 AI Ready Laptop | 15.6\" FHD (1920 x 1080) IPS Display | Intel Core 3 Processor N355 | Intel Graphics | 8GB DDR5 | 128GB UFS | Wi-Fi 6 | Windows 11 Home in S Mode | AG15-32P-352Z",
+      "price": "$ 299.99",
+      "wasPrice": "$390.70",
+      "rating": "4.2",
+      "reviewCount": "42",
+      "monthlySales": "500+ bought in past month",
+      "deliveryFee": "Free",
+      "deliveryDate": "Fri, Dec 4",
+      "thumbImageUrl": "https://m.media-amazon.com/images/I/71H8XhwlwpL._AC_UY218_.jpg",
+      "highResImageUrl": "https://m.media-amazon.com/images/I/71H8XhwlwpL._SL1500_.jpg",
+      "productUrl": "https://www.amazon.com/dp/B0GTFH1DNL"
+    },
+    {
+      "asin": "B0D2JFMYKJ",
+      "uuid": "902136a6-d3bf-4cb6-8db2-8b18ac2c4772",
+      "title": "Lenovo Digital Pen 3 for Laptops, Supports Multiple Protocols, Advanced Tilt Recognition, Tidal Teal",
+      "price": "$ 49.99",
+      "wasPrice": "Price not listed",
+      "rating": "4.3",
+      "reviewCount": "99",
+      "monthlySales": "100+ bought in past month",
+      "deliveryFee": "Free",
+      "deliveryDate": "Fri, Dec 4",
+      "thumbImageUrl": "https://m.media-amazon.com/images/I/313d+m1lIqL._AC_UY218_.jpg",
+      "highResImageUrl": "https://m.media-amazon.com/images/I/313d+m1lIqL._SL1500_.jpg",
+      "productUrl": "https://www.amazon.com/dp/B0D2JFMYKJ"
+    }
+  ]
+}
