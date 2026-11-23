@@ -1,0 +1,45 @@
+{
+  "status": "success",
+  "query": {
+    "product": "laptop",
+    "domain": "com",
+    "currency": "USD"
+  },
+  "result": 22,
+  "productResults": [
+    {
+      "asin": "B0HNK4TKN3",
+      "title": "15.6 Inch Laptop Computer, N4020, 4GB DDR4 RAM, 128GB eMMC,with Windows 11",
+      "price": "$229.99",
+      "priceQ": "$229.99",
+      "priceText": "",
+      "priceTextQ": "Sponsored",
+      "rating": "4.6",
+      "reviews": "2K",
+      "monthlySales": "300+ bought in past month",
+      "availableColors": [
+        "Standard"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZZSOpY3iL._AC_UY218_.jpg",
+      "boughtPastMonth": "300+ bought in past month",
+      "productLink": "https://www.amazon.com/dp/B0HNK4TKN3"
+    },
+    {
+      "asin": "B0HMR2S2SR",
+      "title": "THEYETI 14.1 Inch Laptop 8GB RAM 128GB SSD",
+      "price": "$333.99",
+      "priceQ": "$333.99",
+      "priceText": "",
+      "priceTextQ": "Sponsored",
+      "rating": "5.0",
+      "reviews": "8",
+      "monthlySales": "N/A",
+      "availableColors": [
+        "Standard"
+      ],
+      "imageUrl": "https://m.media-amazon.com/images/I/71jre3smpkL._AC_UY218_.jpg",
+      "boughtPastMonth": "",
+      "productLink": "https://www.amazon.com/dp/B0HMR2S2SR"
+    }
+  ]
+}
