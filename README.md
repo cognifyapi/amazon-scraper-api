@@ -23,9 +23,9 @@ A guide for integrating the **Amazon Scraper API** an amazon api from [CognifyAP
 
 | Endpoint | Description | Example parameters | Response example |
 | --- | --- | --- | --- |
-| `/amazon-product-search` | Search the product catalog. | `product=laptop&domain=com&currency=USD` | [JSON sample](./responses/amazon-product-search.json) |
-| `/amazon-product-search-two` | Search products with the alternate search endpoint. | `product=laptop&domain=com&currency=USD` | [JSON sample](./responses/amazon-product-search-two.json) |
-| `/amazon-product-details` | Retrieve a listing by ASIN. | `asin=B0HGFTXXXM&domain=com&currency=USD` | [JSON sample](./responses/amazon-product-details.json) |
+| `/amazon-product-search` | Search the product catalog. | `product=laptop&domain=com&currency=USD` | [JSON sample](./response/amazon-product-search.json) |
+| `/amazon-product-search-two` | Search products with the alternate search endpoint. | `product=laptop&domain=com&currency=USD` | [JSON sample](./response/amazon-product-search-two.json) |
+| `/amazon-product-details` | Retrieve a listing by ASIN. | `asin=B0HGFTXXXM&domain=com&currency=USD` | [JSON sample](./response/amazon-product-details.json) |
 
 These are endpoint-specific examples from the saved response fixtures. The product-search fixtures include only two products even though their `result` counts are higher, so they are not complete live result sets.
 
