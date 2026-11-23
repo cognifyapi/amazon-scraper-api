@@ -1,4 +1,4 @@
-# Amazon Marketplace API by CognifyAPI - Implementation Guide
+# Amazon Scraper API by CognifyAPI - Implementation Guide
 
 A guide for integrating the **Amazon Scraper API** an amazon api from [CognifyAPI](https://cognifyapi.com) to search products by ASIN and fetch real-time price, ASIN details, and Buy Box statistics from Amazon Marketplace with JSON results.
 #### Free trial. No credit card required.
