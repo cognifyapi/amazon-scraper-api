@@ -1,0 +1,42 @@
+{
+  "status": "success",
+  "query": {
+    "asin": "B0HGFTXXXM",
+    "domain": "com",
+    "currency": "USD"
+  },
+  "productResult": {
+    "title": "HP 2027 Everyday Laptop, Intel CPU, 128GB Storage, Copilot AI, Office 365",
+    "description": "HP 14-inch Laptop for everyday computing, with Intel N150, 4GB RAM, 128GB storage, Windows 11 Home, Microsoft Copilot, and a 1-year Microsoft 365 subscription. [Shortened]",
+    "features": [
+      "Efficient Intel N150 quad-core processor for everyday computing and productivity. [Shortened]",
+      "4GB LPDDR5 RAM, 128GB UFS storage, and Windows 11 Home with Copilot. [Shortened]"
+    ],
+    "productDetails": "Not found",
+    "price": "$ 34999",
+    "rating": "4.4 out of 5 stars",
+    "reviewCount": 1135,
+    "size": "Not found",
+    "otherInfo": {
+      "buyingOptionTypes": [
+        "NEW"
+      ],
+      "zipCode": "600092",
+      "countryCode": "IN",
+      "productAsin": "B0HGFTXXXM"
+    },
+    "productInfo": {
+      "Brand": "HP",
+      "Model Name": "Laptop PC 14",
+      "Screen Size": "15.6 inches",
+      "Color": "Modern Silver",
+      "Hard Disk Size": "128 GB",
+      "CPU Model": "Intel N150",
+      "Ram Memory Installed Size": "4 GB",
+      "Operating System": "Windows 11 Home",
+      "Special Feature": "Anti Glare Coating, HD Audio, Lightweight, Memory Card Slot",
+      "Graphics Card Description": "Integrated"
+    },
+    "imageUrls": "Not found"
+  }
+}
